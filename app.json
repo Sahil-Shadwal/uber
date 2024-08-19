@@ -8,7 +8,7 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/1245.png",
+      "image": "./assets/images/Skaters.jpeg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
